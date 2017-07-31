@@ -1,0 +1,21 @@
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.FormLogin.resources
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.Resources.resources
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.vbproj.GenerateResource.Cache
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\bin\Debug\PenjualanTokoSepatu.exe
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\bin\Debug\PenjualanTokoSepatu.pdb
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\bin\Debug\PenjualanTokoSepatu.xml
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.exe
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.xml
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.pdb
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\bin\Debug\id\PenjualanTokoSepatu.resources.dll
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.FormLogin.id.resources
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\id\PenjualanTokoSepatu.resources.dll
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.FormUtama.resources
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.FormKaryawan.resources
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\bin\Debug\PenjualanTokoSepatu.exe.config
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.FormMasterSize.resources
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.FormMasterSuplier.resources
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.FormMasterWarna.resources
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\bin\Debug\CrystalReport1.vb.dll
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\bin\Debug\My Project.Resources.Designer.vb.dll
+D:\MATERI KULIAH\SEMESTER 4\PP II\Visual Studio 2010\UAS\PenjualanTokoSepatu\PenjualanTokoSepatu\obj\x86\Debug\PenjualanTokoSepatu.vbprojResolveAssemblyReference.cache
